@@ -2,3 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+.sidebar{
+    background-image: url("../../public/bg-sidebar-desktop.svg");
+    background-size: cover;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+
+  .circledefault{
+    display: inline-block;
+    width: 27px;
+    height: 27px;
+    line-height: 15px;
+    text-align: center;
+    border-radius: 50%;
+    color: white;
+    font-weight: 700;
+  }

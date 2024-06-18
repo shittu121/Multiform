@@ -2,7 +2,7 @@ import React from 'react'
 
 const Form2 = () => {
   return (
-    <div>
+    <div className='my-18'>
       Form 2
     </div>
   )
